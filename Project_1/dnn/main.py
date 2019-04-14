@@ -1,15 +1,3 @@
-#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::#
-#                                                                               #
-# Part of mandatory assignment 1 in                                             #
-# IN5400 - Machine Learning for Image analysis                                  #
-# University of Oslo                                                            #
-#                                                                               #
-#                                                                               #
-# Ole-Johan Skrede    olejohas at ifi dot uio dot no                            #
-# 2019.02.12                                                                    #
-#                                                                               #
-#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::#
-
 """
 Main routine capable of training a dense neural network, and also running inference.
 
