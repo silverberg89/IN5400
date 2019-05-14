@@ -1,4 +1,7 @@
 ***
+Requires large download of data before running.
+
+***
 The project is implemented in the jupyter notebook:
 Exercise_Train_an_image_captioning_network.ipynb
 
