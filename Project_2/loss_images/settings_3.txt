@@ -1,0 +1,2 @@
+This was over-written as I tested the jupyter notebook prior to the submission.
+Only the image is left.

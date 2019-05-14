@@ -1,0 +1,8 @@
+batch_size = 64
+Epochs = 75
+weight_decay = 0.00001
+learning_rate = 0.001
+hidden_state_sizes = 128
+layers = 2
+type: GRU
+vocabulary_size: 6000

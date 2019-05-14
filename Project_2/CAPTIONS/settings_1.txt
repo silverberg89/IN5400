@@ -1,0 +1,7 @@
+batch_size = 32
+Epochs = 200
+weight_decay = 0.0001
+learning_rate = 0.0002
+hidden_state_sizes = 512
+nr_layers = 2
+type: RNN
